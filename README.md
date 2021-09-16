@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerocodex86&show_icons=true&theme=dracula)
 
+## My main github stats
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotik0666&show_icons=true&theme=cobalt)
