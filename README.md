@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ## My main github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotik06&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotik06&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotik06)](https://github.com/anuraghazra/github-readme-stats)
